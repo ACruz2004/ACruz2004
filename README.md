@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ACruz2004
 - 👀 I’m interested in becoming a game designer!
-- 🌱 I’m currently learning c++ and python.
+- 🌱 I’m currently learning c++ and C#.
 - 💞️ I’m looking to collaborate on any game design projects I can!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got my A+ certification on the same day as my birthday.
