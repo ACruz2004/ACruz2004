@@ -1,5 +1,3 @@
-You're telling me a software engineered this?
-
 Currently proficient in C++ and C#
 
 Learning Python, Javascript(React).
