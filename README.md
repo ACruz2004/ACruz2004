@@ -1,4 +1,4 @@
-Currently proficient in C++ and C#
+Currently proficient in C++, C#, and C.
 
 Learning Python, Javascript(React).
 
